@@ -10,3 +10,9 @@ Biryani: Arroz basmati cocido con pollo, cordero o vegetales, acompañado de una
 
 Samosas: Empanaditas fritas rellenas de una mezcla de papas, guisantes y especias, acompañadas con una salsa de tamarindo.
 
+#Bebidas Recomendadas
+Lassi de Mango: Bebida cremosa y dulce a base de yogur y mango fresco, perfecta para balancear los sabores picantes.
+
+Chai Masala: Té con especias (cardamomo, canela, jengibre) y leche, ideal para acompañar cualquier plato y para disfrutar después de la comida.
+
+Agua de Coco: Refrescante y ligeramente dulce, excelente para acompañar platos con mucho sabor.
