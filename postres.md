@@ -17,3 +17,19 @@ Panna Cotta de Frambuesa: Crema suave y sedosa a base de nata, con un toque de v
 
 Tarta de Limón: Base de masa crujiente, relleno cremoso de limón y una capa de merengue dorado en la parte superior. El equilibrio perfecto entre dulce y ácido.
 
+#Postres con Helado
+Sundae de Caramelo Salado: Helado de vainilla cubierto con una salsa de caramelo salado, nueces tostadas y trozos de galleta. Un equilibrio perfecto entre dulce y salado.
+
+Profiteroles con Helado de Chocolate: Bolitas de masa rellenas de helado de chocolate y bañadas en una salsa de chocolate caliente. Un postre delicioso y lleno de sabor.
+
+#Postres Veganos
+Tarta de Manzana Vegana: Masa hecha con aceite de coco y rellena de manzanas caramelizadas con canela. Un postre delicioso y apto para veganos.
+
+Mousse de Aguacate y Cacao: Una mousse cremosa y rica, hecha con aguacate, cacao y un toque de miel o jarabe de agave, ideal para los que buscan un postre saludable pero sabroso.
+
+#Consejos
+Texturas y Sabores: Los postres que combinan diferentes texturas, como las mousses con frutas o las tartas con helado, ofrecen una experiencia más compleja y placentera para el paladar.
+
+Equilibrar lo dulce: Algunos postres con frutas, como la ensalada de frutas o la panna cotta, ofrecen un balance entre lo dulce y lo ácido, que es perfecto para una comida copiosa.
+
+Presentación: No olvides la presentación, especialmente en postres como la crème brûlée o los profiteroles. Un toque decorativo con frutas frescas, hierbas o chocolate rallado puede hacer maravillas.
