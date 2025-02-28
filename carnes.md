@@ -10,3 +10,10 @@ Costillas de Cerdo a la Barbacoa: Costillas tiernas cocinadas lentamente en una 
 
 Pollo Relleno de Espinacas y Queso de Cabra: Pechugas de pollo rellenas con una mezcla de espinacas salteadas y queso de cabra, luego horneadas hasta obtener una textura jugosa y sabrosa. Acompañadas de puré de papas cremoso.
 
+#Bebidas Recomendadas
+Vino Tinto Cabernet Sauvignon: Con su sabor profundo y taninos, es perfecto para acompañar carnes rojas como el filete y las costillas de cerdo.
+
+Cerveza Artesanal: Una cerveza tipo IPA o lager es ideal para equilibrar los sabores intensos de la carne a la barbacoa o el pollo relleno.
+
+Cóctel de Whisky Sour: Con whisky, jugo de limón y un toque de azúcar, es un cóctel refrescante que combina bien con carnes asadas o a la parrilla.
+
