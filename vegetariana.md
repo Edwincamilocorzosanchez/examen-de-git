@@ -16,3 +16,11 @@ Limonada Casera: Con limón fresco, azúcar y agua mineral, ¡una bebida refresc
 Agua de Pepino y Menta: Refrescante y sutil, perfecta para acompañar cualquier plato.
 
 Té Verde: Con sus propiedades antioxidantes, el té verde es ideal para una comida saludable y ligera.
+
+#Consejos
+Legumbres: Las legumbres como los garbanzos, lentejas y frijoles son una excelente fuente de proteínas vegetales. Úsalas en sopas, currys o ensaladas.
+
+Verduras de temporada: Aprovecha las verduras de temporada para obtener los sabores más frescos y nutritivos. ¡Son esenciales para platos llenos de color y textura!
+
+Queso vegetal: Si eres vegano o prefieres no usar productos lácteos, hay excelentes opciones de quesos vegetales a base de frutos secos, que complementan perfectamente las lasañas o pizzas.
+
