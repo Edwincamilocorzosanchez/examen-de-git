@@ -17,3 +17,10 @@ Cerveza China (Tsingtao): Ligera y refrescante, perfecta para equilibrar los sab
 
 Baijiu: Licor tradicional chino fuerte, ideal como digestivo después de la comida.
 
+#Consejos
+Cocción rápida: La clave de la cocina china está en el "salteado rápido", lo que permite que los ingredientes se cocinen a alta temperatura para mantener su frescura y textura.
+
+Salsas caseras: Prepara las salsas con antelación. El uso de salsa de soja, vinagre de arroz, aceite de sésamo y azúcar puede hacer maravillas en tus platos.
+
+Arroz jazmín o arroz glutinoso: Acompaña tus platos con arroz jazmín para un toque fragante o arroz glutinoso para una textura pegajosa ideal para los salteados.
+
