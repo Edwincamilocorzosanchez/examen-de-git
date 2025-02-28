@@ -17,3 +17,10 @@ Té Verde: Refrescante y ligeramente amargo, perfecto para balancear los sabores
 
 Shōchū: Licor fuerte japonés, excelente para aquellos que buscan un digestivo.
 
+#Consejos
+Sushi fresco: El sushi es mejor cuando se utiliza pescado fresco y arroz de alta calidad.
+
+Caldo de ramen: Cocinar el caldo de ramen a fuego lento durante varias horas es clave para obtener un sabor profundo y rico.
+
+Tempura crujiente: El aceite debe estar bien caliente para que la tempura quede perfectamente crujiente y ligera.
+
