@@ -10,3 +10,10 @@ Enchiladas Verdes: Tortillas de maíz rellenas de pollo, bañadas en salsa verde
 
 Chiles Rellenos: Pimientos poblanos rellenos de carne, queso o frijoles, empanados y fritos, acompañados de una salsa de tomate.
 
+#Bebidas Recomendadas
+Margarita: Cóctel a base de tequila, lima y licor de naranja, ideal para acompañar los tacos.
+
+Agua Fresca de Jamaica: Bebida refrescante hecha con flor de hibisco, azúcar y agua.
+
+Tequila Reposado: Para disfrutar de un buen digestivo después de la comida.
+
