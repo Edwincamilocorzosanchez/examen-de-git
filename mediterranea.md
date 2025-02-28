@@ -17,3 +17,10 @@ Agua con Limón y Menta: Refrescante y ligera, perfecta para complementar los sa
 
 Ouzo: Licor anisado típico de Grecia, excelente para acompañar los postres o como digestivo.
 
+#Consejos
+Aceite de Oliva Extra Virgen: Utiliza siempre aceite de oliva de buena calidad, es esencial en esta cocina para aderezar ensaladas, hacer salsas o simplemente para acompañar pan.
+
+Verduras frescas: La frescura de los ingredientes es clave. Aprovecha la temporada de verduras frescas y frutas para obtener los mejores sabores.
+
+Hierbas frescas: El uso de hierbas como el orégano, la albahaca, el romero y el tomillo son fundamentales para aportar frescura y aroma a los platos.
+
