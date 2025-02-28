@@ -10,3 +10,9 @@ Curry de Garbanzos: Garbanzos cocinados en una salsa de tomate con leche de coco
 
 Tacos de Tofu a la Parrilla: Tofu marinado y asado, servido en tortillas de maíz con aguacate, salsa fresca, cebolla morada y cilantro. Ideal para una comida ligera pero sabrosa.
 
+#Bebidas Recomendadas
+Limonada Casera: Con limón fresco, azúcar y agua mineral, ¡una bebida refrescante y ligera!
+
+Agua de Pepino y Menta: Refrescante y sutil, perfecta para acompañar cualquier plato.
+
+Té Verde: Con sus propiedades antioxidantes, el té verde es ideal para una comida saludable y ligera.
