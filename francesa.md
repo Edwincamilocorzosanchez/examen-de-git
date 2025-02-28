@@ -16,3 +16,11 @@ Vino Tinto Bordeaux: Con su cuerpo robusto y taninos, es ideal para acompañar p
 Champagne: Una bebida emblemática para celebraciones, con su burbujeo ligero y refrescante, perfecto para un brindis o como aperitivo.
 
 Café Au Lait: Un clásico café francés con leche, perfecto para disfrutar al final de la comida.
+
+#Consejos
+Mantequilla y Crema: La mantequilla y la crema fresca son ingredientes esenciales en muchos platos franceses, brindando textura y sabor únicos.
+
+Técnica de cocción: La "sudado" (cocción lenta a fuego bajo) es clave para realzar los sabores, como en el coq au vin o la bouillabaisse.
+
+Pan fresco: Acompaña siempre tus platos con pan fresco, como una baguette crujiente, que es una parte fundamental de la experiencia gastronómica francesa.
+
