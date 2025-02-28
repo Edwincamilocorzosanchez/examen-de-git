@@ -17,3 +17,10 @@ Agua Fresca de Jamaica: Bebida refrescante hecha con flor de hibisco, azúcar y 
 
 Tequila Reposado: Para disfrutar de un buen digestivo después de la comida.
 
+#Consejos
+Maíz fresco: Utiliza maíz fresco o tortillas hechas a mano para darle un toque auténtico.
+
+Salsas caseras: Prepara salsas frescas y al gusto, con diferentes niveles de picante, para complementar los platos.
+
+Toppings: Acompaña los tacos y enchiladas con cebolla morada encurtida, rodajas de aguacate y limón.
+
