@@ -10,3 +10,10 @@ Ramen: Fideos en caldo de cerdo o pollo con toppings como huevo cocido, cebollí
 
 Tempura: Mariscos y vegetales empanados y fritos, servidos con una salsa ligera a base de soja y jengibre.
 
+#Bebidas Recomendadas
+Sake: Bebida alcohólica tradicional japonesa, ideal para acompañar los platos de sushi o ramen.
+
+Té Verde: Refrescante y ligeramente amargo, perfecto para balancear los sabores umami de la comida.
+
+Shōchū: Licor fuerte japonés, excelente para aquellos que buscan un digestivo.
+
