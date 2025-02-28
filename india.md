@@ -16,3 +16,11 @@ Lassi de Mango: Bebida cremosa y dulce a base de yogur y mango fresco, perfecta 
 Chai Masala: Té con especias (cardamomo, canela, jengibre) y leche, ideal para acompañar cualquier plato y para disfrutar después de la comida.
 
 Agua de Coco: Refrescante y ligeramente dulce, excelente para acompañar platos con mucho sabor.
+
+#Consejos
+Especias frescas: Utiliza especias frescas o recién molidas para obtener un sabor más vibrante en tus platos.
+
+Yogur: El yogur es un ingrediente clave en muchos platos indios, especialmente para equilibrar el picante y darle suavidad a las salsas.
+
+Cocción a fuego lento: Muchos platos indios requieren cocción a fuego lento para que las especias se liberen completamente y se mezclen bien.
+
