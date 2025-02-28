@@ -10,3 +10,10 @@ Cerdo agridulce: Trozos de cerdo fritos y cubiertos con una salsa agridulce, que
 
 Mapo Tofu: Tofu suave cocinado en una salsa picante de chile, pasta de soja fermentada, ajo, jengibre y carne picada (generalmente cerdo o res).
 
+#Bebidas Recomendadas
+Té Verde Chino: Refrescante y ligeramente amargo, ideal para acompañar las comidas y ayudar a la digestión.
+
+Cerveza China (Tsingtao): Ligera y refrescante, perfecta para equilibrar los sabores salados y picantes de los platos.
+
+Baijiu: Licor tradicional chino fuerte, ideal como digestivo después de la comida.
+
