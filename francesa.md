@@ -10,3 +10,9 @@ Bouillabaisse: Sopa de pescado tradicional de Marsella, con una mezcla de marisc
 
 Ratatouille: Guiso de verduras provenzal, compuesto por berenjenas, calabacines, tomates, pimientos, cebollas y hierbas aromáticas, cocinado a fuego lento hasta obtener una mezcla de sabores intensos.
 
+#Bebidas Recomendadas
+Vino Tinto Bordeaux: Con su cuerpo robusto y taninos, es ideal para acompañar platos como el coq au vin y la ratatouille.
+
+Champagne: Una bebida emblemática para celebraciones, con su burbujeo ligero y refrescante, perfecto para un brindis o como aperitivo.
+
+Café Au Lait: Un clásico café francés con leche, perfecto para disfrutar al final de la comida.
